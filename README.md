@@ -14,4 +14,4 @@
     }
 
 #### Images
-![image](http://huaban.com/pins/762499664/) 
+![image](https://github.com/WindFlyCloud/GuideView/blob/master/引导页.gif) 
